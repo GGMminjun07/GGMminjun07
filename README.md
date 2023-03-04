@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 :D
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGMminjun07&show_icons=true&theme=great-gatsby)
 
